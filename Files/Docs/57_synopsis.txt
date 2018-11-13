@@ -1,0 +1,21 @@
+- Materials
+	- Hardware and software (under protocol)
+	- Sources
+	- Preparation
+
+- Apparatus
+	- Specification list
+	- Description (brief in text, detailed in appendices)
+
+- Procedures
+	- Experiment process
+	- Exact steps
+
+- Algorithm
+	- Logic
+		- Performance
+		- Complexity
+	- Implementation
+	- Data
+		- Collection
+		- Analysis

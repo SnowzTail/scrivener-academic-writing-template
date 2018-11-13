@@ -1,0 +1,23 @@
+- Sub-sections by key points
+	- Start with overview sentence
+	- End with conclusion sentence
+	- Smooth transition
+
+- Description
+	- Significance
+		- Results
+		- Variables
+
+	- Data (not statistics)
+		- Environment
+		- Trend
+		- Comparison
+		- Accuracy and precision
+
+	- Edge cases
+		- Elimination
+		- Deviation and error
+
+	- Emphasis
+		- Important results
+		- Principle findings

@@ -1,0 +1,25 @@
+- Background: big picture
+	- Motivations and benefits
+	- Current stage
+	- Accomplishments and applications
+	- Problems
+
+- Problem: zooming in
+	- Main focus
+		- Reason
+		- Aims and objectives
+	- Previous works
+		- Methods
+		- Outcomes
+		- Limitations
+
+- Investigation
+	- Thesis statement
+		- Purpose
+		- Approach
+		- Target
+		- Advantages
+	- Assumptions
+	- Limitations
+
+- Layout (optional)

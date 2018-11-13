@@ -1,0 +1,15 @@
+- Purpose and major findings
+
+- Outcomes
+	- Performance
+	- Complexity
+	- Reliability
+	- Cost
+
+- Significance
+	- Problem mitigation
+	- Applications
+
+- Limitations and weaknesses
+
+- Implications for further research

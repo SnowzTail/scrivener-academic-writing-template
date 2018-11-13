@@ -1,0 +1,11 @@
+- Detailed calculations, procedures, data
+
+- Additional diagrams
+
+- Additional tables summarising data
+
+- Long lists
+
+- Experimental protocols or survey questions
+
+- Code

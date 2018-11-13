@@ -1,0 +1,28 @@
+- Summation of result
+
+- Interpretation
+	- Data patterns
+	- Relationship between variables
+	- Explanations
+
+- Comparison
+	- Theory (hypothesis)
+		- Approach evaluation
+		- Error analysis
+	- Existing schemes
+		- Performance
+		- Complexity
+		- Reliability
+		- Cost
+	- Cited works
+		- Focus
+		- Methods
+		- Outcomes
+
+- Optimisation
+	- Limitations and weaknesses
+	- Possible improvements
+
+- Ethical problem
+
+- Applications and industrial relevance
